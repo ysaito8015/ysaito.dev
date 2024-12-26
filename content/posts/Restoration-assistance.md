@@ -4,7 +4,7 @@ date: 2024-12-27T06:59:28+09:00
 draft: false
 ---
 
-<img src="https://i.gyazo.com/2ff3fa9c2dbb2c1ba505f0838479f1c1.jpg">
+![](https://i.gyazo.com/2ff3fa9c2dbb2c1ba505f0838479f1c1.jpg)
 和倉温泉で撮った虹
 
 ## はじめに
