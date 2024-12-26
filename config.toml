@@ -1,4 +1,4 @@
-baseURL = 'http://ysaito.dev/'
+baseURL = 'http://blog.ysaito.dev/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'blog.ysaito.dev'
 theme = "ananke"
