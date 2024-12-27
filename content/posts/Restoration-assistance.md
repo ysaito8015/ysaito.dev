@@ -7,6 +7,12 @@ draft: false
 ![](https://i.gyazo.com/2ff3fa9c2dbb2c1ba505f0838479f1c1.jpg)
 和倉温泉で撮った虹
 
+
+:::note info
+この記事は [秋葉原ロボット部 Advent Calendar 2024](https://qiita.com/advent-calendar/2024/akbrobot) の 23 日目の記事です。
+:::
+
+
 ## はじめに
 この記事は、秘密結社オープンフォースの災害支援活動に 3 度参加し、うち 2 回分の振り返り記事です。
 おもに、支援活動に持っていって役に立ったグッズ紹介です。
