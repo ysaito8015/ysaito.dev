@@ -8,9 +8,7 @@ draft: false
 和倉温泉で撮った虹
 
 
-:::note info
-この記事は [秋葉原ロボット部 Advent Calendar 2024](https://qiita.com/advent-calendar/2024/akbrobot) の 23 日目の記事です。
-:::
+> この記事は [秋葉原ロボット部 Advent Calendar 2024](https://qiita.com/advent-calendar/2024/akbrobot) の 23 日目の記事です。
 
 
 ## はじめに
